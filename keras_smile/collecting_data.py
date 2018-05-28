@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import os
-
+#
 cap = cv2.VideoCapture(0)
 base_path = r'C:\Users\alexa\Documents\CODING\2018\tutorial\keras_smile/'
 i = 0
