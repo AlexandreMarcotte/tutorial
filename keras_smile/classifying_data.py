@@ -7,6 +7,9 @@ from keras.layers import Dense, Dropout, Flatten
 from keras.layers import Conv2D, MaxPooling2D
 from keras import backend as K
 
+# TEST
+
+
 def train_classifier(x_train, y_train, x_test, y_test):
 
     batch_size = 1
