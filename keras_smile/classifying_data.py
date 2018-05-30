@@ -8,6 +8,7 @@ from keras.layers import Conv2D, MaxPooling2D
 from keras import backend as K
 
 # TEST
+# test 2
 
 
 def train_classifier(x_train, y_train, x_test, y_test):
